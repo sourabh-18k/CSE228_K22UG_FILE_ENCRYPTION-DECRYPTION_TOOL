@@ -1,4 +1,4 @@
-//Nick House CS-2261 Project 4 (LizardmenEncryption)
+//Sourabh Kumar CSE228 Project  (Encryption)
 
 import java.io.*;
 import java.nio.file.Files;
